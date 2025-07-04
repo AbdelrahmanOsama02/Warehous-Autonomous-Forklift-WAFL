@@ -1,0 +1,4 @@
+../Core/Src/encoder.c:22:9:Encoder_get_speed	4	static
+../Core/Src/encoder.c:28:9:Encoder_get_counter	4	static
+../Core/Src/encoder.c:38:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/encoder.c:59:6:HAL_GPIO_EXTI_Callback	16	static
